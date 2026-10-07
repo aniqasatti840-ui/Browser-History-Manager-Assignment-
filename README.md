@@ -1,11 +1,14 @@
 # Browser History Manager
 
-**Course:** Data Structures Lab (CS 216L) – Lab Assignment 1
-**Group:1**                                                                                                                 ## **Group Member** 
+**Course:** Data Structures Lab (CS 216L) – Lab Assignment 1 - **Group:1**        
+
+## **Group Member** 
+
 1. Aniqa Arshad-54
 2. Ayesha Yaqoob-68
 3. Eisha Noor-09 
 4. Nimra Ilyas-52
+
 **Language:** Java (console application)
 **GitHub Repository:** https://github.com/aniqasatti840-ui<Aniqa Arshad>/CS216L_Project2_GroupName
 
