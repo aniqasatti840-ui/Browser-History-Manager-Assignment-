@@ -1,7 +1,7 @@
 # Browser History Manager
 
 **Course:** Data Structures Lab (CS 216L) – Lab Assignment 1
-**Group:1** <GroupName> <Aniqa Arshad-54>, <Ayesha Yaqoob-68>, <Eisha Noor-09>, <Nimra Ilyas-52>
+**Group:1** **<GroupName>** <Aniqa Arshad-54>, <Ayesha Yaqoob-68>, <Eisha Noor-09>, <Nimra Ilyas-52>
 **Language:** Java (console application)
 **GitHub Repository:** https://github.com/aniqasatti840-ui<Aniqa Arshad>/CS216L_Project1_GroupName
 
@@ -9,7 +9,7 @@
 
 ## Description
 
-A menu-driven console application that imitates the history and navigation of a web browser. Every visited page is stored in a **singly linked list**, where it can be searched, sorted and deleted. Navigation uses **two stacks**: a **Back stack** and a **Forward stack**. Visiting a new page pushes the current page on the Back stack and clears the Forward stack, exactly like a real browser.
+A menu-driven console application that imitates the history and navigation of a web browser. Every visited page is stored in a **singly linked list**, where it can be searched, sorted, and deleted. Navigation uses **two stacks**: a **Back stack** and a **Forward stack**. Visiting a new page pushes the current page on the Back stack and clears the Forward stack, exactly like a real browser.
 
 ## Data Structures Used
 
@@ -88,7 +88,7 @@ cd ..
 java -cp out BrowserHistoryManager
 ```
 
-**Eclipse / Visual Studio Code:** create a new Java project, copy all files from `src/` into it, and run `BrowserHistoryManager.java`.
+**Eclipse / Visual Studio Code:** Create a new Java project, copy all files from `src/` into it, and run `BrowserHistoryManager.java`.
 
 ## Screenshots
 
