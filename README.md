@@ -10,7 +10,7 @@
 4. Nimra Ilyas-52
 
 **Language:** Java (console application)
-**GitHub Repository:** https://github.com/aniqasatti840-ui & <Aniqa Arshad>/CS216L_Project2_GroupName
+**GitHub Repository:** https://github.com/aniqasatti840-ui & https://github.com/aniqasatti840-ui/Browser-History-Manager-Assignment-<Aniqa Arshad>/CS216L_Project2_GroupName
 
 ---
 
